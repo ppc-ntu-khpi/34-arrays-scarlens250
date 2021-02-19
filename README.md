@@ -3,6 +3,6 @@
 Знайти в масиві число, яке повторюється найбільшу кількість разів
 ## Результат 
 <img src="https://github.com/ppc-ntu-khpi/34-arrays-scarlens250/blob/master/image/Exercise.png">
-<img src="https://github.com/ppc-ntu-khpi/34-arrays-scarlens250/blob/master/image/Result.png">
+<img src="https://github.com/ppc-ntu-khpi/34-arrays-scarlens250/blob/master/image/TestResult.png">
 <img src="https://github.com/ppc-ntu-khpi/34-arrays-scarlens250/blob/master/image/Result.png">
 
