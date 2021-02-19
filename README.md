@@ -4,5 +4,5 @@
 ## Результат 
 <img src="https://raw.githubusercontent.com/ppc-ntu-khpi/34-arrays-scarlens250/blob/master/image/Exercise.png">
 <img src="https://raw.githubusercontent.com/ppc-ntu-khpi/34-arrays-scarlens250/blob/master/image/TestResult.png">
-<img src="https://raw.githubusercontent.com/ppc-ntu-khpi/34-arrays-scarlens250/blob/master/image/Result.png">
+<img src="https://github.com/ppc-ntu-khpi/34-arrays-scarlens250/blob/master/image/Result.png">
 
